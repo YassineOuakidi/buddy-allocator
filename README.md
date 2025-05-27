@@ -14,8 +14,7 @@ A custom memory allocator implementing the **Buddy Memory Allocation** algorithm
 │   └── buddy.c             # Implementation of allocation and deallocation
 │   └── init.c              #initializing data
 │   └── utils.c      
-├── main.c                  # Example usage or tests (add your tests here)
-│   └── main.c                 
+├── main.c                  # Example usage or tests (add your tests here)                
 ├── README.md
 ```
 
